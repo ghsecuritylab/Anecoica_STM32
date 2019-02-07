@@ -1,0 +1,12 @@
+dac.c:88:6:init_dac_command	0	static
+dac.c:94:6:reorder_dac	0	static
+dac.c:100:6:send_dac	16	static
+dac.c:110:6:send_recv_dac	32	static
+dac.c:122:6:send_control_dac	16	static
+dac.c:136:6:set_volt_dac	16	static
+dac.c:145:6:read_control_dac	16	static
+dac.c:154:6:daisy_dac	16	static
+dac.c:162:6:soft_reset_dac	16	static
+dac.c:169:6:reset_dac	16	static
+dac.c:75:6:init_dac	8	static
+dac.c:176:6:nop_dac	16	static

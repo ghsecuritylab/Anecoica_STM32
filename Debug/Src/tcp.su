@@ -1,0 +1,15 @@
+core_cm7.h:1998:22:NVIC_SystemReset	4	static
+tcp.c:62:6:tcp_server	24	static
+tcp.c:103:6:conn_handler	40	static
+tcp.c:157:6:tcp_writer	48	static
+tcp.c:176:6:send_packet	80	dynamic
+tcp.c:194:6:send_keep_alive	16	static
+tcp.c:199:6:send_ack	16	static
+tcp.c:204:6:send_position_speed	24	static
+tcp.c:214:6:send_position	24	static
+tcp.c:220:6:send_speed	24	static
+tcp.c:226:6:send_state	24	static
+tcp.c:232:6:send_checkpoint	24	static
+tcp.c:238:6:send_limits	24	static
+tcp.c:247:10:stop	16	static
+tcp.c:252:10:keepAlive	16	static

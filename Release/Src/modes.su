@@ -1,0 +1,10 @@
+modes.c:78:10:run_position_mode	0	static
+modes.c:86:10:run_register_mode	8	static
+modes.c:94:10:run_manual_mode	0	static
+modes.c:102:10:stop_mode	0	static
+modes.c:237:6:manual_mode	40	static
+modes.c:269:9:dist_to_speed_cond	16	static
+modes.c:107:6:position_mode	48	static
+modes.c:276:9:arrived_to_position	16	static
+modes.c:166:6:register_mode	56	static
+modes.c:40:6:run_modes	8	static

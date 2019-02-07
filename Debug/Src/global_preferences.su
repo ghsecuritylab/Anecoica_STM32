@@ -1,0 +1,16 @@
+global_preferences.c:20:10:set_basic_config	32	static
+global_preferences.c:25:10:set_advanced_config	24	static
+global_preferences.c:30:10:set_system_config	16	static
+global_preferences.c:35:10:set_axis	16	static
+global_preferences.c:43:13:axisType	4	static
+global_preferences.c:47:7:upperRange	4	static
+global_preferences.c:51:7:lowerRange	4	static
+global_preferences.c:55:7:acceleration	4	static
+global_preferences.c:59:7:deceleration	4	static
+global_preferences.c:63:7:positionWindow	4	static
+global_preferences.c:67:7:minSpeed	4	static
+global_preferences.c:71:7:maxSpeed	4	static
+global_preferences.c:75:7:maxVolt	4	static
+global_preferences.c:79:9:limited	4	static
+global_preferences.c:83:9:axisSelected	4	static
+global_preferences.c:87:10:TTL_flank	4	static

@@ -1,0 +1,9 @@
+utils.c:18:7:frontDistance	24	static
+utils.c:26:7:behindDistance	24	static
+utils.c:34:7:shortDistance	24	static
+utils.c:46:7:accelerationDistance	32	static
+utils.c:50:7:decelerationDistance	32	static
+utils.c:54:7:correctPosition	24	static
+utils.c:65:7:getFloat	24	static
+utils.c:72:6:DWT_Init	4	static
+utils.c:79:6:DWT_Delay	24	static

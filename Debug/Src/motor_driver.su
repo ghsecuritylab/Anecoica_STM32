@@ -1,0 +1,10 @@
+motor_driver.c:46:6:position_updater	24	static
+motor_driver.c:85:6:update_speed	40	static
+motor_driver.c:123:6:update_position	8	static
+motor_driver.c:129:7:get_position	4	static
+motor_driver.c:133:7:get_speed	4	static
+motor_driver.c:138:6:set_speed	32	static
+motor_driver.c:147:6:set_speed_params	32	static
+motor_driver.c:155:6:stop_speed	4	static
+motor_driver.c:159:15:get_speed_state	4	static
+motor_driver.c:163:6:speed_updater	40	static
